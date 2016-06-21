@@ -1,0 +1,26 @@
+{
+  "name": "addressbookapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepikaVeera/addressbookapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepikaVeera/addressbookapi/issues"
+  },
+  "homepage": "https://github.com/DeepikaVeera/addressbookapi#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "latest",
+    "mongoose": "latest",
+    "node-restful": "latest",
+    "nodemon": "^1.9.2"
+  }
+}
